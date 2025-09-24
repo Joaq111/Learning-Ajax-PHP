@@ -1,0 +1,15 @@
+{
+    "name": "joo/ajax",
+    "description": "Curso de Ajax",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao"
+        }
+    ],
+    "require": {}
+}
